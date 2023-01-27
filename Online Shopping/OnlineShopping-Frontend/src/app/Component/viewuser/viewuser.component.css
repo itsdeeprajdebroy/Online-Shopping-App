@@ -1,0 +1,43 @@
+
+.container{
+    
+    justify-content: center;
+    align-items: center;
+    height: 55vh;
+    width: 40%;
+    border-radius: 5px;
+    flex-direction: column;
+    margin-top: 120px;
+    padding-bottom: 30px;
+    transition : all 0.3s;
+    padding-top: 40px;
+}
+.paddings{
+    margin: 30px;
+}
+.card {
+    height: 90vh;
+    margin: 25px;
+    padding: 25px;
+   
+}
+.container:hover{
+    transform: scale(1.0);
+    box-shadow: rgba(116, 94, 92, 0.2) 0px 8px 24px;
+
+}
+
+.edit-button
+{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+svg{
+    position: relative;
+    left: 235px;
+    height: 50px;
+    width: 50px;
+}

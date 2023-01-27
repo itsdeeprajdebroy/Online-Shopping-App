@@ -1,0 +1,86 @@
+<div class="container mt-4">
+  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-check" viewBox="0 0 16 16">
+    <path d="M12.5 16a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Zm1.679-4.493-1.335 2.226a.75.75 0 0 1-1.174.144l-.774-.773a.5.5 0 0 1 .708-.708l.547.548 1.17-1.951a.5.5 0 1 1 .858.514ZM11 5a3 3 0 1 1-6 0 3 3 0 0 1 6 0ZM8 7a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"/>
+    <path d="M8.256 14a4.474 4.474 0 0 1-.229-1.004H3c.001-.246.154-.986.832-1.664C4.484 10.68 5.711 10 8 10c.26 0 .507.009.74.025.226-.341.496-.65.804-.918C9.077 9.038 8.564 9 8 9c-5 0-6 3-6 4s1 1 1 1h5.256Z"/>
+  </svg>
+    <form #register="ngForm" (ngSubmit)="register.form.valid && registerFn()">
+  
+   
+  
+      <div class="mb-3">
+  
+        <label for="userName" class="form-label">User Name</label>
+  
+        <input type="text" class="form-control" id="userName" placeholder="Your Name" [(ngModel)]="user.userName" name="userName" #userName="ngModel" required maxlength="32" [ngClass]="{error : userName.errors && userName.touched}">
+  
+        <div *ngIf="userName.errors && userName.touched">
+  
+          <small class="text-danger" *ngIf="userName.errors['required']">Name field is requird</small>
+  
+          <small class="text-danger" *ngIf="userName.errors['maxlength']">Only 32 characters are allowed.</small>
+  
+        </div>
+  
+      </div>
+     
+  
+      <div class="mb-3">
+  
+        <label for="emailAdd" class="form-label">Email</label>
+  
+        <input type="email" class="form-control" id="emailAdd" placeholder="anything@example.com" [(ngModel)]="user.emailAdd" name="emailAdd" #emailAdd="ngModel" required maxlength="32" [pattern]="emailRegex" [ngClass]="{error : emailAdd.errors && emailAdd.touched}">
+  
+        <div *ngIf="emailAdd.errors && emailAdd.touched">
+  
+          <small class="text-danger" *ngIf="emailAdd.errors['required']">Email field is requird</small>
+  
+          <small class="text-danger" *ngIf="emailAdd.errors['maxlength']">Email should be maximum 32 characters long.</small>
+  
+  
+          <small class="text-danger" *ngIf="emailAdd.errors['pattern']">Please enter a valid email.</small>
+  
+        </div>
+  
+      </div>
+  
+      <div class="mb-3">
+  
+        <label for="phNo" class="form-label">Mobile</label>
+  
+        <input type="text" class="form-control" id="phNo" placeholder="Mobile" [(ngModel)]="user.phNo" name="phNo" #phNo="ngModel" required minlength="10" maxlength="10" [pattern]="phoneRegex" [ngClass]="{error : phNo.errors && phNo.touched}">
+  
+        <div *ngIf="phNo.errors && phNo.touched">
+  
+          <small class="text-danger" *ngIf="phNo.errors['required']">Mobile field is requird</small>
+  
+          <small class="text-danger" *ngIf="phNo.errors['minlength'] || phNo.errors['maxlength'] || phNo.errors['pattern']">Please enter a valid mobile no.</small>
+  
+        </div>
+  
+      </div>
+  
+      <div class="mb-3">
+  
+        <label for="password" class="form-label">Password</label>
+  
+        <input type="password" class="form-control" id="password" placeholder="Password" [(ngModel)]="user.password" name="password" #password="ngModel" required minlength="8" maxlength="8" [ngClass]="{error : password.errors && password.touched}">
+  
+        <div *ngIf="password.errors && password.touched">
+  
+          <small class="text-danger" *ngIf="password.errors['required']">Password field is requird</small>
+  
+          <small class="text-danger" *ngIf="password.errors['minlength'] || password.errors['maxlength'] || password.errors['pattern']">Enter valid password </small>
+  
+        </div>
+  
+      </div>
+
+      <div class="mb-3" id="button">
+        <input type="submit" class="btn btn-success" [disabled]="register.form.status === 'INVALID'" (click)="userService.logOutUser()">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <button class="btn btn-primary" routerLink="/userlogin">Login</button>
+      </div>
+      <small class="text-warning">{{message}}</small>
+      <small class="text-success">{{successMessage}}</small>
+    </form>
+  
+  </div>

@@ -1,0 +1,57 @@
+form.d-flex
+{
+    width: 500px
+    !important;
+    margin-right: 180px;
+}
+.form-control me-2
+{
+    flex-grow: 5;
+}
+nav
+{
+    background-color: rgb(6, 6, 6);
+}
+/* a.navbar-brand
+{
+    margin-right: 250px;
+  
+} */
+a.nav-link active
+{
+    margin-right: 10px;
+}
+.form-control {
+    margin-right: 75px;
+    border-radius: 3px;
+    width: 600px;
+    margin-left: 20px;
+}
+
+.search-icon {
+    position: absolute;
+    z-index: 10;
+    right: 38%;
+    top: 39px;
+    color: blue;
+}
+
+.btn-primary
+{
+    height: 45px;
+    /* margin-left: 20px */
+    
+    /* !important; */
+} 
+/* #navbarSupportedContent{
+    height: 10px;
+} */
+
+.navbar-nav{
+    height: 35px;
+}
+
+.edit-button{
+    background-color: transparent;
+    border-radius: 5px;
+}

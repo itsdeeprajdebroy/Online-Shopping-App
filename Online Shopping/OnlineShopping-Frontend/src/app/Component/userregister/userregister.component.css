@@ -1,0 +1,31 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 450px;
+    padding-top: 20px;
+    height: 600px;
+}
+
+#button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container:hover{
+    /* box-shadow: inset 0 -3em 3em rgba(82, 74, 74, 0.1), 0 0 0 2px rgb(255, 255, 255),
+    0.3em 0.3em 1em rgba(104, 75, 75, 0.3); */
+    box-shadow: rgba(51, 42, 41, 0.2) 0px 8px 24px;
+}
+
+svg{
+    height: 70px;
+    width: 70px;
+    padding-bottom: 20px;
+}
+
+form{
+    width: 300px;
+}

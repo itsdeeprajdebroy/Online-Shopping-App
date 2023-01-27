@@ -1,0 +1,36 @@
+.card-img-top{
+    padding: 50px;
+    width: 500px;
+    height: 500px;
+}
+.img{
+    height: 500px;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    margin-top: 30px;
+    padding: 50px;
+}
+.forward{
+    padding-left: 30px;
+}
+.center-button{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    padding: 10px;
+}
+.btn{
+    width: 150px;
+}
+
+.card-img-top:hover{
+    transition: 0.3s ease-in-out;
+    transform: scale(1.1);
+}

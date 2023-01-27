@@ -1,0 +1,32 @@
+.fluid-container{
+    background-color: #eceaea;
+    margin: 0px;
+    height: 300px;
+    margin-top: 100vh;
+}
+.footer-design{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+h{
+    padding-top: 150px;
+    background-color: white;
+}
+
+svg{
+    margin: 0 15px;
+}
+
+.icon-tweeter{
+    color: #00acee;
+}
+.icon-facebook{
+    color: #3b5998;
+}
+.google{
+    color:  #c4302b;
+}

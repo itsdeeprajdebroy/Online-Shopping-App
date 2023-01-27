@@ -1,0 +1,44 @@
+<!-- getbyId -->
+<div class="container" *ngIf="productById.productId > 0">
+    <div class="card mb-3">
+        <div class = "img">
+            <img src="{{productById.image}}" class="card-img-top" routerLink="singleproduct" alt="..." >
+        </div>
+        <div class="card-body">
+          <h5 class="card-title">{{productById.productName}}</h5>
+          <p class="card-text">
+            {{productById.descriptionOfProd}}
+          </p>
+          <p class="card-text" class="text-success"><small>*Special price</small></p>
+          <div class="forward">
+            <p><strong>Price :</strong> {{productById.price}}</p>
+            <p><strong>Quantity :</strong> {{productById.quantity}}</p>
+          </div>
+          <div class="center-button">
+            <button type="button" class="btn btn-primary" [disabled] = "!userService.isLoggedIn()" (click)="AddToFav(productById.productId)" routerLink="/home">Add to Fav </button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <button type="button" class="btn btn-danger" routerLink="/home">Home </button>
+          </div>
+        </div>
+      </div>
+</div>
+
+<!-- getbyname -->
+<div class="container" *ngIf="product.productId > 0">
+  <div class="card mb-3">
+      <div class = "img">
+          <img src="{{product.image}}" class="card-img-top" routerLink="singleproduct" alt="...">
+      </div>
+      <div class="card-body">
+        <h5 class="card-title">{{product.productName}}</h5>
+        <p class="card-text">{{product.descriptionOfProd}}</p>
+        <p class="card-text" class="text-success"><small>*Special price</small></p>
+        <div class="forward">
+          <p><strong>Price :</strong> {{product.price}}</p>
+          <p><strong>Quantity :</strong> {{product.quantity}}</p>
+        </div>
+        <div class="center-button">
+          <button type="button" class="btn btn-primary" [disabled] = "!userService.isLoggedIn()" (click)="AddToFav(product.productId)" routerLink="/home">Add to Fav </button>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        </div>
+      </div>
+    </div>
+</div>
