@@ -1,0 +1,258 @@
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\appsettings.Development.json
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\appsettings.json
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.exe
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.deps.json
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.runtimeconfig.json
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.pdb
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Humanizer.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.csproj.AssemblyReference.cache
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.AssemblyInfoInputs.cache
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.AssemblyInfo.cs
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.csproj.CoreCompileInputs.cache
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.MvcApplicationPartsAssemblyInfo.cs
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\staticwebassets.build.json
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\staticwebassets.development.json
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\scopedcss\bundle\OnlineShoppingApp.styles.css
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.csproj.CopyComplete
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\refint\OnlineShoppingApp.dll
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.pdb
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.genruntimeconfig.cache
+E:\Final full project\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\ref\OnlineShoppingApp.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\appsettings.Development.json
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\appsettings.json
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.exe
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.deps.json
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.runtimeconfig.json
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\OnlineShoppingApp.pdb
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Humanizer.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.csproj.AssemblyReference.cache
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.AssemblyInfoInputs.cache
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.AssemblyInfo.cs
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.csproj.CoreCompileInputs.cache
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.MvcApplicationPartsAssemblyInfo.cs
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\staticwebassets.build.json
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\staticwebassets.development.json
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\scopedcss\bundle\OnlineShoppingApp.styles.css
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.csproj.CopyComplete
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\refint\OnlineShoppingApp.dll
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.pdb
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\OnlineShoppingApp.genruntimeconfig.cache
+E:\Final full project git\group-13-onlineshopping\OnlineShoppingApp\obj\Debug\net6.0\ref\OnlineShoppingApp.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\appsettings.Development.json
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\appsettings.json
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\OnlineShoppingApp.exe
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\OnlineShoppingApp.deps.json
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\OnlineShoppingApp.runtimeconfig.json
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\OnlineShoppingApp.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\OnlineShoppingApp.pdb
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Humanizer.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.csproj.AssemblyReference.cache
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.AssemblyInfoInputs.cache
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.AssemblyInfo.cs
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.csproj.CoreCompileInputs.cache
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.MvcApplicationPartsAssemblyInfo.cs
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.MvcApplicationPartsAssemblyInfo.cache
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\obj\Debug\net6.0\staticwebassets\msbuild.OnlineShoppingApp.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineShoppingApp.props
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineShoppingApp.props
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineShoppingApp.props
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\obj\Debug\net6.0\staticwebassets.build.json
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\obj\Debug\net6.0\staticwebassets.development.json
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\obj\Debug\net6.0\scopedcss\bundle\OnlineShoppingApp.styles.css
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.csproj.CopyComplete
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\obj\Debug\net6.0\refint\OnlineShoppingApp.dll
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.pdb
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.genruntimeconfig.cache
+F:\Online Shopping App\Online-Shopping-App\Online Shopping\OnlineShoppingApp-Api\obj\Debug\net6.0\ref\OnlineShoppingApp.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\appsettings.Development.json
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\appsettings.json
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\OnlineShoppingApp.exe
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\OnlineShoppingApp.deps.json
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\OnlineShoppingApp.runtimeconfig.json
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\OnlineShoppingApp.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\OnlineShoppingApp.pdb
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Humanizer.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.csproj.AssemblyReference.cache
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.AssemblyInfoInputs.cache
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.AssemblyInfo.cs
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.csproj.CoreCompileInputs.cache
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.MvcApplicationPartsAssemblyInfo.cs
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.MvcApplicationPartsAssemblyInfo.cache
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\obj\Debug\net6.0\staticwebassets\msbuild.OnlineShoppingApp.Microsoft.AspNetCore.StaticWebAssets.props
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\obj\Debug\net6.0\staticwebassets\msbuild.build.OnlineShoppingApp.props
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.OnlineShoppingApp.props
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.OnlineShoppingApp.props
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\obj\Debug\net6.0\staticwebassets.pack.json
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\obj\Debug\net6.0\staticwebassets.build.json
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\obj\Debug\net6.0\staticwebassets.development.json
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\obj\Debug\net6.0\scopedcss\bundle\OnlineShoppingApp.styles.css
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.csproj.CopyComplete
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\obj\Debug\net6.0\refint\OnlineShoppingApp.dll
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.pdb
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\obj\Debug\net6.0\OnlineShoppingApp.genruntimeconfig.cache
+F:\OnlineShoppingApp\Online-Shopping-App\OnlineShopping\OnlineShoppingApp-Api\obj\Debug\net6.0\ref\OnlineShoppingApp.dll
