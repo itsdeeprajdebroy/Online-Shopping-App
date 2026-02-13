@@ -1,4 +1,4 @@
-insert into Product values('Backpack',109.95,'Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday','https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg',120)
+insert into Product values('Backpack',109.95,'Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, and carry your everyday essentials','https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg',120)
 
 insert into Product values  
 ('T shirts',22.3,
@@ -94,7 +94,7 @@ insert into Product values
 insert into Product values
 (
 'Raincoats',39.99,
-'Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but does not overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.',
+'Lightweight perfect for trips or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but does not overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.',
 'https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg',679
 )
 
